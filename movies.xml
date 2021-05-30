@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+
+
+<Mayanagari>
+            <Classical>
+                <Movie_Name>West Side Story</Movie_Name>
+                <Release_Year>1961</Release_Year>
+            </Classical> 
+
+            <Action>
+                <Movie_Name>John Wick</Movie_Name>
+                <Release_Year>2014</Release_Year>
+            </Action> 
+
+            <Horror>
+                <Movie_Name>The Conjuring</Movie_Name>
+                <Release_Year>2013</Release_Year>
+            </Horror>
+</Mayanagari> 
+
